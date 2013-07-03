@@ -1,4 +1,4 @@
-centralsigma
+﻿centralsigma
 ============
 
-Repositório usado pelo Bruno
+Arquivos do site centralsigma.com.br
